@@ -33,7 +33,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anthony-valdez-49a162121/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matthew%20Alexander%20Orantes-teal?style=flat-square&logo=linkedin"></a>
-<a href="https://public.tableau.com/app/profile/anthony.valdez#!/?newProfile=&activeTab=0"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-matthew7953-teal?style=flat-square&logo=Tableau"></a>
-<a href="mailto:AnthonyVA22299@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matthew.orantes916@gmail.com-teal?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/anthony-valdez-49a162121/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anthony%20Valdez-teal?style=flat-square&logo=linkedin"></a>
+<a href="https://public.tableau.com/app/profile/anthony.valdez#!/?newProfile=&activeTab=0"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-Anthony7953-teal?style=flat-square&logo=Tableau"></a>
+<a href="mailto:AnthonyVA22299@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-AnthonyVA22299@gmail.com-teal?style=flat-square&logo=gmail"></a>
 </p>
