@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Using critical thinking to break down problems, evaluate solutions and make decisions.
 - 🎓 &nbsp; Learning skills in Coursera's Google Data Analytics Course.
 - 💼 &nbsp; Applying my skills in SQL and Excel for data analysis and visualizations.
-- 🌱 &nbsp; Learning more about SQL, Excel, Tableau, and R programming.
+- 🌱 &nbsp; Learning more about SQL, Excel, Tableau, and Python programming.
 - ✍️ &nbsp; Pursuing a Career in Data Analytics.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -14,7 +14,7 @@
 - 💻 &nbsp;
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![R (Statistics)](https://img.shields.io/badge/-Python-333333?style=flat&logo=R&logoColor=276DC3)
 - 🛢 &nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=microsoftsqlserver)
