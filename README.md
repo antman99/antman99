@@ -7,7 +7,7 @@
 - - 🎓 &nbsp; Completed Google Data Analytics professional certificate which provided an excellent foundation for both technical and soft skills required to be in the field of data analytics.
 - 💼 &nbsp; Applied my skills in SQL, Tableau, and Excel for data analysis and visualizations to create portfolio projects to host on GitHub, Linkedin, and personal website as well as adding these projects to my remume to show experience in the field .
 - 🌱 &nbsp; Learning to incorporate Python programming into my data analysis skillset by taking Harvard's cs50 python certificate as well as taking a python course on Kaggle.
-- 💼  &nbsp; Currently seeking to transition careers into a data analysis role
+- 💼  &nbsp; Currently seeking to transition careers into a data analysis related role by optimizing my online prescence to show that I'm a highly motivated and driven individual who would be a great addition to the team!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
