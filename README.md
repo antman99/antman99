@@ -3,11 +3,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Using critical thinking to break down problems, evaluate solutions and make decisions.
-- 🎓 &nbsp; Learning skills in Coursera's Google Data Analytics Course.
-- 💼 &nbsp; Applying my skills in SQL and Excel for data analysis and visualizations.
-- 🌱 &nbsp; Learning more about SQL, Excel, Tableau, and Python programming.
-- ✍️ &nbsp; Pursuing a Career in Data Analytics.
+- 🤔 &nbsp; Developed an analytical mindset to be able to ask the right questions and evaluate the data in an efficient manner.
+- - 🎓 &nbsp; Completed Google Data Analytics professional certificate which provided an excellent foundation for both technical and soft skills required to be in the field of data analytics.
+- 💼 &nbsp; Applied my skills in SQL, Tableau, and Excel for data analysis and visualizations to create portfolio projects to host on GitHub, Linkedin, and personal website as well as adding these projects to my remume to show experience in the field .
+- 🌱 &nbsp; Learning to incorporate Python programming into my data analysis skillset by taking Harvard's cs50 python certificate as well as taking a python course on Kaggle.
+- 💼  &nbsp; Currently seeking to transition careers into a data analysis role
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
