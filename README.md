@@ -14,7 +14,7 @@
 - 💻 &nbsp;
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=276DC3)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 - 🛢 &nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=microsoftsqlserver)
