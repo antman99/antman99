@@ -33,7 +33,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://socalanthony.com/"><img alt="Website" src="https://img.shields.io/badge/Website-Anthony-teal?style=flat-square&logo=Website"></a>
+<a href="https://socalanthony.com/"><img alt="Personal Website" src="https://img.shields.io/badge/Website-Anthony-teal?style=flat-square&logo=Website"></a>
 <a href="https://www.linkedin.com/in/anthony-valdez-49a162121/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anthony%20Valdez-teal?style=flat-square&logo=linkedin"></a>
 <a href="https://public.tableau.com/app/profile/anthony.valdez#!/?newProfile=&activeTab=0"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-Anthony-teal?style=flat-square&logo=Tableau"></a>
 <a href="mailto:AnthonyVA22299@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-AnthonyVA22299@gmail.com-teal?style=flat-square&logo=gmail"></a>
